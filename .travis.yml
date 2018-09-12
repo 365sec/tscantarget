@@ -1,6 +1,8 @@
 language: python
 python:
  - 2.7.3
+before_install:
+  - sudo chmod +x tdns
 script:
   - python setup.py install
   - tscantarget -i  target.cvs

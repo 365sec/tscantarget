@@ -1,2 +1,2 @@
 # tscantarget
-接收输入为域名或IP的组合，对域名进行域名解析。然后将待扫描的IP和域名分别输出
+Receive input as the domain name or IP combination, the domain name for the domain name resolution.The IP and domain names to be scanned are then output separately
